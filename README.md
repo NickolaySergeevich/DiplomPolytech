@@ -13,5 +13,4 @@
 Для связи с разработчиками:
 
 	1. Почта - asakura475@gmail.com
-	
 	2. Telegram - https://t.me/Nickolas_Cranger
